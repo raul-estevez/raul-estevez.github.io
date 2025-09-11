@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Intern at QOPHI Lab and Telecommunication Engineer undergraduate at University of Vigo.
+subtitle: Junior Photonics Designer and Telecommunication Engineer.
 
 profile:
   align: right
@@ -16,7 +16,6 @@ latest_posts: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi everyone! I'm a Telecommunication Engineer undergraduate and currently an intern at [Qophi Lab](https://qophi.eu)
+Hi everyone! I'm a Telecommunication Engineer and currently a Junior Photonics Designer at [Sparc Foundry](https://sparcfoundry.com/) in Vigo.
 
-My main interest are: signal processing, communications and applied math.
-
+My main interest are: RF, Microwave, Photonics, Signal Processing and Applied Math
